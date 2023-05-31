@@ -1,4 +1,4 @@
-![Robin Goudeketting's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goudekettingrm&show_icons=true&theme=transparent)
+![Robin Goudeketting's GitHub Stats](https://github-readme-stats-seven-steel-38.vercel.app/api?username=goudekettingrm&show_icons=true&theme=dark)
 
 ### Hi there 👋
 
