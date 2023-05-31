@@ -1,5 +1,8 @@
+![Robin Goudeketting's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goudekettingrm&show_icons=true&theme=transparent)
+
 ### Hi there 👋
 
+You can reach me on [Twitter](https://twitter.com/goudekettingrm).
 <!--
 **GoudekettingRM/GoudekettingRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
