@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-🔭 Currently working on [Career Basecamp](https://www.career-basecamp.com/) and [Equippo](https://www.equippo.com/). 📫 You can reach me on [Twitter](https://twitter.com/goudekettingrm).
+🔭 Currently working on [Career Basecamp](https://www.career-basecamp.com/) and [Equippo](https://www.equippo.com/). 📫 You can reach me on [Twitter](https://twitter.com/goudekettingrm) or via my [personal website](https://goudeketting.nl/). 
 <!--
 **GoudekettingRM/GoudekettingRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
